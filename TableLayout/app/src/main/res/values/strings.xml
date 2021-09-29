@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Table Layout</string>
+    <string name="login" />
+    <string name="username" />
+    <string name="password" />
+    <string name="submit" />
+</resources>
